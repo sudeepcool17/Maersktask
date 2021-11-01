@@ -1,0 +1,8 @@
+prefix = "Macrolife"
+location = "South India"
+vnetcidr = "192.168.0.0/16"
+websubnetcidr = "192.168.1.0/24"
+appsubnetcidr = "192.168.2.0/24"
+webhostname = "webserver"
+apphostname = "appserver"
+replication = "GRS"
